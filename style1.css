@@ -1,0 +1,19 @@
+body{
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs1to68N4xksq6QkxEiELQ_jsomhYGgAdW5sFlerz9Bl-Ar3Hn);
+}
+
+title{
+  text-align: center;
+  font-stretch: extra-expanded;
+  color: white
+}
+h1{
+  color:white;
+}
+h2{
+  text-align: center;
+  font-stretch: expanded;
+}
+p{
+  font-style: italic;
+}
